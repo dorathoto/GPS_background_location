@@ -5,6 +5,7 @@ import 'dart:ui';
 
 import 'package:background_locator/background_locator.dart';
 import 'package:background_locator/location_dto.dart';
+import 'package:background_locator_example/location_dto.dart'
 import 'package:background_locator/settings/android_settings.dart';
 import 'package:background_locator/settings/ios_settings.dart';
 import 'package:background_locator/settings/locator_settings.dart';
